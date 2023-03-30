@@ -74,7 +74,7 @@
 #     for i in favorite_places[person]:
 #         print (f"   {i}")
 
-
+# I changed things here!
 
 # cities={
 #     "Detroit": {"country": "America", "population" : "600k", "fact": "Great Hare Krishna Temple"},
